@@ -9,6 +9,7 @@ joblib==1.5.1
 mypy-boto3-s3==1.40.26
 pandas==2.2.3
 pydantic==2.11.7
+python-multipart-0.0.20
 pydantic_core==2.33.2
 python-box>=7.0.0
 pywin32==308
